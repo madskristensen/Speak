@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35906.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speak", "src\Speak.csproj", "{0AFF0537-FECD-428F-BD0D-0672FE62B92C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|arm64 = Debug|arm64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|arm64 = Release|arm64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFF0537-FECD-428F-BD0D-0672FE62B92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFF0537-FECD-428F-BD0D-0672FE62B92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFF0537-FECD-428F-BD0D-0672FE62B92C}.Debug|arm64.ActiveCfg = Debug|arm64
+		{0AFF0537-FECD-428F-BD0D-0672FE62B92C}.Debug|arm64.Build.0 = Debug|arm64
+		{0AFF0537-FECD-428F-BD0D-0672FE62B92C}.Debug|x86.ActiveCfg = Debug|x86
+		{0AFF0537-FECD-428F-BD0D-0672FE62B92C}.Debug|x86.Build.0 = Debug|x86
+		{0AFF0537-FECD-428F-BD0D-0672FE62B92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFF0537-FECD-428F-BD0D-0672FE62B92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AFF0537-FECD-428F-BD0D-0672FE62B92C}.Release|arm64.ActiveCfg = Release|arm64
+		{0AFF0537-FECD-428F-BD0D-0672FE62B92C}.Release|arm64.Build.0 = Release|arm64
+		{0AFF0537-FECD-428F-BD0D-0672FE62B92C}.Release|x86.ActiveCfg = Release|x86
+		{0AFF0537-FECD-428F-BD0D-0672FE62B92C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23CAA3A5-67C3-4386-BC7D-D1429A000955}
+	EndGlobalSection
+EndGlobal
