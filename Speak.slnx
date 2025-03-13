@@ -4,7 +4,7 @@
     <Platform Name="arm64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="src/Speak.csproj">
+  <Project Path="src/Speak.csproj" Id="0aff0537-fecd-428f-bd0d-0672fe62b92c">
     <Platform Solution="*|arm64" Project="arm64" />
     <Platform Solution="*|x86" Project="x86" />
   </Project>
